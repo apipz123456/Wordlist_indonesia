@@ -1,2 +1,2 @@
 # Wordlist_indonesia
-Berikut wordlis password yang sering di  pakai orang indonesia
+Berikut wordlist password yang sering di  pakai orang indonesia/jawa
